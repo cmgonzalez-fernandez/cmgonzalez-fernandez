@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Carlos Gonzalez-Fernandez
+## 👋 Hi, I'm Carlos Gonzalez
 
 Professional in Information Technology specializing in **Systems Administration and Cybersecurity**, with hands-on experience in support, network management, and helpdesk operations. Bilingual in **English and Spanish**, I deliver efficient solutions in high-pressure environments and have strong expertise in automation, cloud services, and security.
 
