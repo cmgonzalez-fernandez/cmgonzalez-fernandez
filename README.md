@@ -27,6 +27,5 @@ Currently exploring **Artificial Intelligence applications** and advanced **auto
 
 ### 📫 Contact
 - Email: cgf0014@gmail.com  
-- Portfolio: [LinkedIn/Personal Website if any]
 
 ##End of Line
